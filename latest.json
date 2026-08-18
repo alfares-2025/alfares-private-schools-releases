@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/alfares-2025/alfares-private-schools-releases/releases/download/v1.0.0/AL-Fares%20Private%20School_1.0.0_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWNUY2ljdzRkTXBxRUd0VUI0cHhacDIzSEJ2NVpzT1VKdnpRNU9tRThKVCtZcUZtNlNQL09wcVNQOUlyZWhpRDBreUNGY1BNc0p1Y050ZkpnK2p6M0NMSTArNUlGdXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDM2NTY0CWZpbGU6QUwtRmFyZXMgUHJpdmF0ZSBTY2hvb2xfMS4wLjBfeDY0X2VuLVVTLm1zaQpvdVVjdlpZMWNqdFZkYmtCMFJjc0xXVEhhbVJZNkU3cENQUGpYT3dMWk9PbnZCOU5oUFNsdjlwbnVsaE1jekRNTXVtT3BId214NEEveFRmV0d0SHJEZz09Cg=="
+    }
+  }
+}
