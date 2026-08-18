@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-08-18T16:06:01Z",
   "notes": "New update",
+  "pub_date": "2026-08-18T17:01:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWNUY2ljdzRkTXJmRDJLNVVQWGRQd2VSS1FjNm03ZDFoWXMzZmwwbFd4V3dRSytxUStKSk9qUHQ4WXV2NWVieVBWTy9JS1pqWUdxUG96N3ZaMERDeVFrOE85b2pJNFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDY5MTU5CWZpbGU6QUwtRmFyZXMgUHJpdmF0ZSBTY2hvb2xfMS4wLjNfeDY0LXNldHVwLmV4ZQplVnNvYXBNSFpTRWlRUU1PSFJiTnl1d2RVYjZML2pmYkw0aVUzQTd1QkFCbEtZNWF1THl1UkIrZStFeVpBblJKS3FTMndYTU5CRUZCZjFrT0JzNVZBZz09Cg==",
-      "url": "https://github.com/alfares-2025/alfares-private-schools-releases/releases/download/v1.0.3/AL-Fares+Private+School_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWNUY2ljdzRkTWtDcS9qOUxYQ0NaU012NkhOaFNoU0t3cHpyMm1QaDlsNXp0R2J2OE5seTBuMk9OSkFVNXpqdFJ6blBsMkJNWlc1dXRZZTNkb2lRLzE3NE5ORjgwZ2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDcyNDk4CWZpbGU6QUwtRmFyZXMgUHJpdmF0ZSBTY2hvb2xfMS4wLjRfeDY0LXNldHVwLmV4ZQpPeFJVNVl4bllmWjNtSnVXVU4zcDJDa2NtQWtkTkVVZTl3UndERWFqaWw2OCtkcUY5QjhFT1V4MnVmaGJBQWJCNy8zSUdTcy9LbWpGZFhJbGJUbHZEUT09Cg==",
+      "url": "https://github.com/alfares-2025/alfares-private-schools-releases/releases/download/v1.0.4/AL-Fares+Private+School_1.0.4_x64-setup.exe"
     }
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
