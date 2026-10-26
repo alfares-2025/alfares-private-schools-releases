@@ -1,11 +1,11 @@
 {
-  "version": "1.1.17",
+  "version": "1.1.18",
   "notes": "New update",
-  "pub_date": "2026-10-23T18:25:00Z",
+  "pub_date": "2026-10-26T06:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWNUY2ljdzRkTXRFM3dVZ1lLYUwyQUdpcmtYeVREU25BMnVTSGxvVXJCcG9UQXAyclB3aFowaWNRditNNTRzRThnSGNHOUlWTE5XcHB3SFBCODVFUHpkZFIrRlBGYlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc5NTczCWZpbGU6QWxGYXJlc1Bzc18xLjEuMTdfeDY0LXNldHVwLmV4ZQp4M1M4ZS9yTU5BREhxWSsvcUFySVl5QVNPWUs3NHFDd29yNUtPL0pod3RLS0Q1anlHNDZjM0hLK05ydUpKVkdkNjZlc0Fzd2dHWE9uWlJQQXF5RjFDZz09Cg==",
-      "url": "https://github.com/alfares-2025/alfares-private-schools-releases/releases/download/v1.1.17/AlFaresPss_1.1.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWNUY2ljdzRkTW1rWWFGalhKNkNLU3RFMkZ1a2pUelpVZEk0Y3lpam9EWnovZjU2S25BSHJMYy9MQjVYc2dEN3R6WHE4MXhVaDZKa2hMcndXbjJPVkRQZ0RTRHVnM0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTk3NDkxCWZpbGU6QWxGYXJlc1Bzc18xLjEuMThfeDY0LXNldHVwLmV4ZQorc1V5Y1kzaW5YWDl6YTUyOC9kSEw5VktRd0RPc1JKYnBVeEZTZkJHYXJsQm9zR3BUZFNKS1ZNN0lvbGJ1Z015aUVnZWJaUmpnMTFZUGc5UHVFQjFEQT09Cg==",
+      "url": "https://github.com/alfares-2025/alfares-private-schools-releases/releases/download/v1.1.18/AlFaresPss_1.1.18_x64-setup.exe"
     }
   }
 }
